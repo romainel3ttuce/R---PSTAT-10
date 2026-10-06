@@ -185,3 +185,4 @@ Please remember to fill out these learning gains before showing your TA your wor
 - How to create a VECTOR in R in MULTIPLE different ways
 - Basic functions of R such as ADDING and REPETITION of values
 - How to calculate the MEDIAN of vector values and EXTRACTING values from the vectors
+
