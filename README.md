@@ -15,7 +15,7 @@ Includes:
   9. Ethically Communicate Findings
   10. Impacts of Data-Driven Decisions
 
-Language: R
+Languages: R, HTML
 
 This repository consists of the labs and activities my professor assigned to our class as well as my personal notes using RStudio.
 
