@@ -4,16 +4,16 @@ Course taken at UC Santa Barbara
 
 Includes:
 
-Data Manipulation
-Exploratory Data Analysis
-Data Visualization
-Statistical Thinking 
-Computer Programming
-Collecting Data
-Preparing Data
-Analyzing Data
-Ethically Communicate Findings
-Impacts of Data-Driven Decisions
+  1. Data Manipulation
+  2. Exploratory Data Analysis
+  3. Data Visualization
+  4. Statistical Thinking 
+  5. Computer Programming
+  6. Collecting Data
+  7. Preparing Data
+  8. Analyzing Data
+  9. Ethically Communicate Findings
+  10. Impacts of Data-Driven Decisions
 
 Language: R
 
